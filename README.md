@@ -3,7 +3,8 @@
 Sistem Pendukung Keputusan untuk membandingkan paket Internet Service Provider (ISP) menggunakan metode **Weighted Product (WP)**.
 
 **Studi Kasus:** Cilandak Timur, Jakarta Selatan  
-**Sumber Data:** BAB IV Penelitian
+**Sumber Data:** BAB IV Penelitian  
+**Pembaruan Terakhir:** 21 Agustus 2026
 
 ## Fitur
 
