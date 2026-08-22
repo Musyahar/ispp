@@ -281,7 +281,6 @@ function renderLoginPage() {
       '</form>' +
 
       '<div class="login-footer">' +
-        '<p>Studi Kasus: Cilandak Timur, Jakarta Selatan<br>Metode Weighted Product — BAB IV Penelitian</p>' +
       '</div>' +
     '</div>';
 
